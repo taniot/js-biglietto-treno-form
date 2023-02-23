@@ -1,0 +1,29 @@
+/*
+RESET
+*/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    padding: 20px;
+}
+
+.page-container h1 {
+    margin-bottom: 2rem;
+}
+
+.page-container .inputs {
+    margin-bottom: 1rem;
+}
+
+.ticket-result {
+    display: none;
+}
+
+.show {
+    display: block;
+}
